@@ -1,11 +1,16 @@
-.boxy {
+img {
+	height: 300px;
+}
+#intro {
+	display: inline-block;
+	width: 700px;
+	vertical-align: top;
+}
+#sidebar {
+	display: inline-block;
 	width: 200px;
-	height: 200px;
-	background-color: blue;
-}
-.dropdown {
-	position: relative;
-}
-.bluer {
-	color: red;
+	background-color: #cccccc;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10px;
 }
